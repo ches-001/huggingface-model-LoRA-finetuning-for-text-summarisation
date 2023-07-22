@@ -1,0 +1,17 @@
+langchain==0.0.229
+openai 
+tiktoken
+pydantic==1.10.11
+einops 
+transformers 
+xformers 
+sentencepiece 
+accelerate 
+bitsandbytes
+sentence_transformers
+datasets
+peft==0.4.0
+protobuf==3.20
+rouge-score
+tensorboard
+py7zr 
