@@ -16,3 +16,4 @@ rouge-score
 tensorboard
 py7zr 
 nltk
+rouge
