@@ -11,7 +11,7 @@ bitsandbytes
 sentence_transformers
 datasets
 peft==0.4.0
-protobuf==3.20
+#protobuf==3.20
 rouge-score
 tensorboard
 py7zr 
