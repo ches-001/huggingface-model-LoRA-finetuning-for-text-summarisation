@@ -1,4 +1,5 @@
 /data/doc_summary_data
 /data/doc_summary_tokens
 finetuning_flan_t5_base.ipynb
+finetuning_alpaca.ipynb
 .env
