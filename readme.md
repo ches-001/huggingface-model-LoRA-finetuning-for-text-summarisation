@@ -10,4 +10,4 @@
 
 4. Run the "finetuning_xxx.ipynb" notebooks to finetune  the LLMs
 
-5. Run the "benchmark.ipynb" notebook to compare the finetuned flan-T5-small model to the alpaca and vicuna models
+5. Run the "lora_xxx_comparison.ipynb" notebooks to compare the LoRA finetuned LLMs to their base forms model to the alpaca and vicuna models
