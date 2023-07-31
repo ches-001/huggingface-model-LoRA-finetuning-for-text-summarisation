@@ -1,4 +1,10 @@
 /data/doc_summary_data
 /data/doc_summary_tokens
 finetuning_flan_t5_base.ipynb
+alpaca-native_finetuned_results
+flan-t5-small_finetuned_results
+flan-t5-base_finetuned_results
+lora-flan-t5-small
+lora-flan-t5-base
+lora-alpaca-native
 .env

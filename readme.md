@@ -10,4 +10,5 @@
 
 4. Run the "finetuning_xxx.ipynb" notebooks to finetune  the LLMs
 
-5. Run the "lora_xxx_comparison.ipynb" notebooks to compare the LoRA finetuned LLMs to their base forms model to the alpaca and vicuna models
+5. Run the "lora_xxx_comparison.ipynb" notebooks to compare the LoRA finetuned LLMs to their base forms models and others. 
+**Alteratively**, you can download the necessary folders required to run the comparison notebooks from [Here](https://drive.google.com/file/d/1qMwLSuHDNqise0IDAUAaqMctRiUapg0Q/view?usp=drive_link). There are 6 folders in this zipped file, and all 6 are expected to be on the same directory level as the comparison notebooks.
